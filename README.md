@@ -1,4 +1,4 @@
-# TypeScript React Tailwind Vite AntD Template
+# TypeScript React AntD Vite Tailwind Template
 
 This template provides a starting point for creating React projects with TypeScript, Tailwind CSS, and Vite.
 
