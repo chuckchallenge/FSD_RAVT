@@ -1,20 +1,11 @@
-# TypeScript React Tailwind Vite Template
+# TypeScript React Tailwind Vite AntD Template
 
 This template provides a starting point for creating React projects with TypeScript, Tailwind CSS, and Vite.
 
 ## Overview
 
-This template allows you to quickly set up a React project with TypeScript, Tailwind CSS, and Vite. It provides a modern development environment with features such as hot module replacement and fast refresh, making it easy to develop and customize your React applications.
+This template allows you to quickly set up a React project with TypeScript, Tailwind CSS, AntD, and Vite. It provides a modern development environment with features such as hot module replacement and fast refresh, making it easy to develop and customize your React applications.
 
-## Features
-
-- TypeScript: Develop with confidence using static type-checking and improved tooling.
-
-- React: Build dynamic user interfaces with the popular React library.
-
-- Tailwind CSS: Easily style and customize your components using the utility-first approach of Tailwind CSS.
-
-- Vite: Enjoy fast development and instant hot module replacement with Vite's lightning-fast dev server.
 
 ## Installation
 
