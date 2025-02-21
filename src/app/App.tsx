@@ -1,10 +1,9 @@
 import { FC } from "react";
-import { Route, Routes, useLocation } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import { LoginPage, RegisterPage } from "@/pages";
 import '@/app/styles.css'
 
 const App: FC = () => {
-  const navigate = useLocation();
   return (
     <>
       <Routes>
